@@ -1,4 +1,4 @@
-# Data-Business-Analyst-Portfolio
+# Data Business Analyst Portfolio
 # About Me
 Hello everyone! My name is Farhan, and this is my portfolio.
 I love exploring different types of data, discovering insights, and representing it with appealing visuals.
